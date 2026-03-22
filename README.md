@@ -1,0 +1,2 @@
+# GPTZEROHUB
+Akademik Yazım Protokolü
